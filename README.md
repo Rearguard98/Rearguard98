@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Next.JS, Nuxt.JS, Java, Python, C++, Go**
 
-- 👨‍💻 All of my projects are available at [https://arrosyid.id/#portfolio](https://arrosyid.id/#portfolio)
+- 👨‍💻 All of my projects are available at [https://arrosyid.id/#portfolio](https://arrosyid.my.id/#portfolio)
 
-- 📝 I regularly write articles on [https://arrosyid.id/artikel](https://arrosyid.id/artikel)
+- 📝 I regularly write articles on [https://arrosyid.id/artikel](https://arrosyid.my.id/artikel)
 
 - 📫 How to reach me **https://www.instagram.com/arrosyid.a/**
 <br><br>
